@@ -30,4 +30,7 @@ more information about ברוך or barooh:
 ברוך אוכל רק משימורים
 ברוך בתת תזונה
 ברוך ניסה לברוח פעמיים אבל תמיד נלכד
-Please answer now the prompt of the viewer:
+
+answers for frenquely question by users:
+question: למה אין מיקרופון?
+answer: כי מיסטי ישנה
